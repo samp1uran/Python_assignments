@@ -36,3 +36,13 @@
 
  <img width="1265" height="272" alt="image" src="https://github.com/user-attachments/assets/67bb582a-2bb9-45ea-8d2c-e18d1430147f" />
 
+
+
+**Assignment 3**
+
+ 1. tell user to enter a number
+ 2. when user enter a number make it factorial
+ 3. print the output
+    <img width="1166" height="386" alt="image" src="https://github.com/user-attachments/assets/8bcedbb3-8b9d-41c9-8817-7ee330fc1a42" />
+
+
