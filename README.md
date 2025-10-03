@@ -1,4 +1,8 @@
 # Python_assignments
+
+****Assignment 1****
+
+
 **First Task**
 1. first step get a number form user two seperate value
 2. add numaric operations
@@ -14,3 +18,6 @@
 3.Print a output of greeting message to the user 
 
 <img width="1691" height="317" alt="image" src="https://github.com/user-attachments/assets/432fdf41-4720-466b-87db-c4471f704da5" />
+
+
+****Assignment 2****
