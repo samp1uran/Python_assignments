@@ -21,8 +21,18 @@
 
 
 ****Assignment 2****
+
+**First Task**
 1. Takes a number from user
 2. now find the number is odd or even using if else function
 3. now print those values is odd or even
    <img width="1440" height="480" alt="image" src="https://github.com/user-attachments/assets/1a2e1c94-eaf3-40ba-97f7-48182fa5a52b" />
- 
+
+ **Second Task**
+
+ 1. define a variable
+ 2. use of for loop
+ 3. display the output
+
+ <img width="1265" height="272" alt="image" src="https://github.com/user-attachments/assets/67bb582a-2bb9-45ea-8d2c-e18d1430147f" />
+
