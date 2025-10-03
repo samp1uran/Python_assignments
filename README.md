@@ -21,3 +21,8 @@
 
 
 ****Assignment 2****
+1. Takes a number from user
+2. now find the number is odd or even using if else function
+3. now print those values is odd or even
+   <img width="1440" height="480" alt="image" src="https://github.com/user-attachments/assets/1a2e1c94-eaf3-40ba-97f7-48182fa5a52b" />
+ 
