@@ -63,3 +63,19 @@
 
 
 
+**Assignment 4**
+
+First task
+1.Create a txt file 
+2. Assigned a Variable for the file
+3. first open a file then reading a file and then close the file 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1a35dbf5-c01b-490f-8b6a-64f9132729ed" />
+
+
+Task 2: Write and Append Data to a File
+ 
+Problem Statement: Write a Python program that:
+1.   Takes user input and writes it to a file named output.txt.
+2.   Appends additional data to the same file.
+3.   Reads and displays the final content of the file.
+
